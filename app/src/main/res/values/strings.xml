@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TvMazeShowsApp</string>
+    <string name="default_error_message">An error occurred. Please try again later.</string>
 </resources>
