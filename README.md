@@ -3,7 +3,7 @@ TvMazeApp is a simple Android application designed for learning purposes, focusi
 
 Features:
 Displays a list of TV shows retrieved from the TVMaze API.
-Allows users to view details of each TV show.
+Allows users to view TV show list.
 Implements Dependency Injection using Hilt for cleaner and more maintainable code.
 Utilizes coroutines for managing asynchronous tasks efficiently.
 Adheres to MVVM architecture for separation of concerns and better code organization.
@@ -19,7 +19,7 @@ How to Use:
 Clone the repository from GitHub link.
 Open the project in Android Studio.
 Build and run the project on an Android device or emulator.
-Explore the list of TV shows and their details.
+Explore the list of TV shows list.
 
 Additional Notes:
 Ensure that you have an active internet connection to fetch TV show data from the TVMaze API.
